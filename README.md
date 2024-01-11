@@ -22,6 +22,7 @@ https://github.com/gnn4bio/ELGN.git
 - `preprocess_pdbbind.py:` preprocess the protein-ligand complex dataset.
 - `train.py:` train ELGN model.
 - `utils.py:` some tools for ELGN.
+- `requirement.txt:` libs for ELGN.
 
 #### Datasets
 
