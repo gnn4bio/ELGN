@@ -15,7 +15,7 @@ https://github.com/gnn4bio/ELGN.git
 
 #### code structure
 
-- `dataset.py:` Code for constructing a dataset representing interaction graphs in protein-ligand complexes.
+- `dataset.py:` code for constructing a dataset representing interaction graphs in protein-ligand complexes.
 - `fetureizer.py:` calculates atomic features for molecules, wherein the features can encode atom type, native Pybel properties, or any property defined with SMARTS patterns.
 - `layers.py:` implementation of each layer in the model.
 - `model.py:` ELGN model.
