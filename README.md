@@ -10,7 +10,7 @@
 Clone this repo.
 
 ```
-https://github.com/gnn4bio/ELGN.git
+git clone https://github.com/gnn4bio/ELGN.git
 ```
 
 #### code structure
